@@ -1,0 +1,10 @@
+Line Number,TEST.ini,TEST2.ini
+53,vert_begin_length = 98,vert_begin_length = 200
+67,ZMotorHighDistance = 22,ZMotorHighDistance = 18
+224,distance_carriage_paper = 400,distance_carriage_paper = 430
+233,IsClearPassTouch = 3,IsClearPassTouch = 0
+277,HidePrintDirction = 1,HidePrintDirction = 0
+280,UseUvLamp = 0,UseUvLamp = 1
+328,VertBeginAlign = 1,VertBeginAlign = 0
+346,EnRollerMode = 1,EnRollerMode = 0
+378,IsYResetPosition = 1,IsYResetPosition = 0
